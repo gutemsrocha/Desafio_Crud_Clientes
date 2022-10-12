@@ -70,11 +70,11 @@ public class Client {
         this.birthDate = birthDate;
     }
 
-    public Integer getCildren() {
+    public Integer getChildren() {
         return children;
     }
 
-    public void setCildren(Integer cildren) {
+    public void setChildren(Integer cildren) {
         this.children = cildren;
     }
 }
